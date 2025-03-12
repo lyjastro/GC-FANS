@@ -1,2 +1,2 @@
-# GC-FANS the catalogue of All FAST observertions conducted in this survey
-# Catolog ID    observation date     observation length
+# The Catalogue of All FAST Observations conducted in GC FANS
+
