@@ -1,4 +1,4 @@
-|   Num | GC        | ID1                 | RA_observe         | DEC_observe    | Observation Date    |   MJD | Backend       | MODE             |   Observation Length |
+|   Num | GC        | ID                 | RA_observe         | DEC_observe    | Observation Date    |   MJD | Backend       | MODE             |   Observation Length |
 |------:|:----------|:--------------------|:-------------------|:---------------|:--------------------|------:|:--------------|:-----------------|---------------------:|
 |     1 | NGC6229   | NGC6229             | 16:46:59           | +47:31:39.9    | 2020-01-16  | 58864 | psr           | Tracking         |                15000 |
 |    | NGC6229   | NGC6229             | 16:46:59           | +47:31:39.9    | 2020-01-03  | 58851 | psr           | Tracking         |                13800 |
