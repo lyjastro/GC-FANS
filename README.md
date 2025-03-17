@@ -1,4 +1,4 @@
-# The Catalogue of All FAST Observations conducted in GC FANS
+# The Catalogue of All FAST Observations Conducted in GC FANS
 # Sorted by its declination
 Column 1：Number;
 Column 2：The name of globular clusters;
